@@ -20,6 +20,7 @@
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Keerthi303/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3379-score-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
