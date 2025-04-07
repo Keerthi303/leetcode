@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Keerthi303/leetcode/tree/master/0020-valid-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Keerthi303/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Keerthi303/leetcode/tree/master/1651-shuffle-string) |
@@ -75,6 +76,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Keerthi303/leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
