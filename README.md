@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
+| [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 ## String
 |  |
 | ------- |
