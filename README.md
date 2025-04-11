@@ -60,6 +60,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Keerthi303/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
