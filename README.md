@@ -49,6 +49,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Keerthi303/leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/Keerthi303/leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
