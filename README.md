@@ -30,6 +30,7 @@
 | [1651-shuffle-string](https://github.com/Keerthi303/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Keerthi303/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/Keerthi303/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Keerthi303/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -55,6 +56,7 @@
 | [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Keerthi303/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
