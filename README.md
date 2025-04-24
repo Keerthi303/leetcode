@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keerthi303/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
@@ -52,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keerthi303/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi303/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
