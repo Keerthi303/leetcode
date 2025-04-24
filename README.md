@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Keerthi303/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
