@@ -78,6 +78,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Keerthi303/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3429-special-array-i](https://github.com/Keerthi303/leetcode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -85,6 +86,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -102,6 +104,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Combinatorics
 |  |
