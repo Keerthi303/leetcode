@@ -21,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
+| [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -156,6 +157,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
+| [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
