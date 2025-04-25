@@ -23,6 +23,7 @@
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Keerthi303/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Keerthi303/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
