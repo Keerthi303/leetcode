@@ -89,6 +89,7 @@
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3429-special-array-i](https://github.com/Keerthi303/leetcode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3723-sum-of-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/3723-sum-of-good-numbers) |
 ## Simulation
 |  |
 | ------- |
