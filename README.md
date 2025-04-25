@@ -19,6 +19,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Keerthi303/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Keerthi303/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi303/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
