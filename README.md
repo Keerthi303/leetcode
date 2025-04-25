@@ -21,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Keerthi303/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -50,6 +51,7 @@
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/Keerthi303/leetcode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
