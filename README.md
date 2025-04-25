@@ -32,6 +32,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Keerthi303/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthi303/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthi303/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Keerthi303/leetcode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
