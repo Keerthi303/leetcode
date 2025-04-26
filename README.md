@@ -20,6 +20,7 @@
 | [0007-reverse-integer](https://github.com/Keerthi303/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
