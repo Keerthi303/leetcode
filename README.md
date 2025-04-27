@@ -25,6 +25,7 @@
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3371-harshad-number](https://github.com/Keerthi303/leetcode/tree/master/3371-harshad-number) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
