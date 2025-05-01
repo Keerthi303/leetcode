@@ -148,6 +148,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keerthi303/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Keerthi303/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Keerthi303/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Keerthi303/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Keerthi303/leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Keerthi303/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Keerthi303/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Keerthi303/leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -205,5 +208,6 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Keerthi303/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
