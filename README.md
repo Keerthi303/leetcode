@@ -23,6 +23,7 @@
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
+| [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthi303/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
 |  |
