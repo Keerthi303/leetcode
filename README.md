@@ -13,6 +13,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Keerthi303/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -90,6 +91,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -123,6 +125,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
