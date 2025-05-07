@@ -10,6 +10,7 @@
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Keerthi303/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
@@ -73,6 +74,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi303/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Keerthi303/leetcode/tree/master/1580-shuffle-the-array) |
@@ -133,6 +135,7 @@
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
