@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthi303/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -208,6 +209,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Keerthi303/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Keerthi303/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthi303/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
