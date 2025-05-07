@@ -5,13 +5,12 @@ int findLucky(int* arr, int arrSize) {
         dc[arr[i]]++;
         if(arr[i]>max)max=arr[i];
     }
-    int k=0,max1=0;
+    int k=0;
     for(int i=1;i<=max;i++){
-      if(dc[i]==i&&i>max1){
+      if(dc[i]==i&&i>k){
         k=i;
-        max1=i;
       }
     }
-    if(k>0)return max1;
+    if(k>0)return k;
     return -1;
 }
