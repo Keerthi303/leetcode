@@ -75,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +128,7 @@
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -156,6 +158,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Keerthi303/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Keerthi303/leetcode/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
