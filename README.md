@@ -74,6 +74,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi303/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
