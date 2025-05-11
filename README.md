@@ -36,6 +36,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Keerthi303/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Keerthi303/leetcode/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
+| [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
