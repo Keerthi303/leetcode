@@ -103,6 +103,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/Keerthi303/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Keerthi303/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
