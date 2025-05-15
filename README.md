@@ -19,6 +19,7 @@
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [3636-check-balanced-string](https://github.com/Keerthi303/leetcode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
