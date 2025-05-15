@@ -25,6 +25,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Keerthi303/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Keerthi303/leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
@@ -276,4 +277,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keerthi303/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keerthi303/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
