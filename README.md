@@ -81,6 +81,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Keerthi303/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthi303/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0932-monotonic-array](https://github.com/Keerthi303/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
