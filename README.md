@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
@@ -114,6 +115,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -209,6 +212,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
