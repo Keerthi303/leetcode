@@ -109,6 +109,7 @@
 | [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthi303/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
