@@ -301,6 +301,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Keerthi303/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthi303/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthi303/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Keerthi303/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
