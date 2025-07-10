@@ -77,6 +77,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/Keerthi303/leetcode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthi303/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -140,6 +141,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Keerthi303/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Keerthi303/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthi303/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthi303/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3429-special-array-i](https://github.com/Keerthi303/leetcode/tree/master/3429-special-array-i) |
