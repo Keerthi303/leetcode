@@ -100,6 +100,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthi303/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Keerthi303/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -261,6 +262,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Enumeration
 |  |
@@ -312,12 +314,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keerthi303/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [0975-range-sum-of-bst](https://github.com/Keerthi303/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Keerthi303/leetcode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Keerthi303/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/Keerthi303/leetcode/tree/master/1005-univalued-binary-tree) |
 ## Linked List
 |  |
@@ -349,4 +353,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Keerthi303/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
