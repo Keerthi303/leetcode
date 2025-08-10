@@ -108,6 +108,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Keerthi303/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthi303/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Keerthi303/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -359,4 +360,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Keerthi303/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
