@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthi303/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keerthi303/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Keerthi303/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keerthi303/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Keerthi303/leetcode/tree/master/0412-fizz-buzz) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keerthi303/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -383,4 +386,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Keerthi303/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
