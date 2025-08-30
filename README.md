@@ -24,6 +24,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Keerthi303/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Keerthi303/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
@@ -86,6 +87,7 @@
 | [1944-truncate-sentence](https://github.com/Keerthi303/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Keerthi303/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Keerthi303/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Keerthi303/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthi303/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -152,6 +154,7 @@
 | [2122-count-special-quadruplets](https://github.com/Keerthi303/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
 | [2181-smallest-index-with-equal-value](https://github.com/Keerthi303/leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Keerthi303/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Keerthi303/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Keerthi303/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Keerthi303/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -234,6 +237,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Keerthi303/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
