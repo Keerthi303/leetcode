@@ -18,9 +18,9 @@ public:
                 mat[i++][j++] = s[k++];
             }
             s.clear();
-            if(( st_j > 0 )&& (st_i == 0)) {
+            if ((st_j > 0) && (st_i == 0)) {
                 st_j--;
-            } else{
+            } else {
                 st_i++;
             }
             i = st_i;
