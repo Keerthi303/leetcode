@@ -115,6 +115,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthi303/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -309,6 +310,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -389,6 +391,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Keerthi303/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
