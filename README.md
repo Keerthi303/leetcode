@@ -117,6 +117,7 @@
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthi303/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Keerthi303/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Keerthi303/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Keerthi303/leetcode/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
