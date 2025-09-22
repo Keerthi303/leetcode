@@ -31,6 +31,7 @@
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -183,6 +184,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthi303/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthi303/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Keerthi303/leetcode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3723-sum-of-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/3723-sum-of-good-numbers) |
@@ -334,6 +336,7 @@
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Tree
 |  |
 | ------- |
