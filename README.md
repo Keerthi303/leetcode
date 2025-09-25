@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Keerthi303/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Keerthi303/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthi303/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -118,6 +119,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Keerthi303/leetcode/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
