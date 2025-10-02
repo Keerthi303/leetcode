@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Keerthi303/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Keerthi303/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Keerthi303/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthi303/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
