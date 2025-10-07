@@ -129,6 +129,7 @@
 | [0049-group-anagrams](https://github.com/Keerthi303/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Keerthi303/leetcode/tree/master/0137-single-number-ii) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Keerthi303/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthi303/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthi303/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Keerthi303/leetcode/tree/master/0165-compare-version-numbers) |
