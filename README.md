@@ -127,6 +127,7 @@
 | [0027-remove-element](https://github.com/Keerthi303/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Keerthi303/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Keerthi303/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Keerthi303/leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
@@ -481,6 +482,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Keerthi303/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
