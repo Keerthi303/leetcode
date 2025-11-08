@@ -71,6 +71,7 @@
 | [3830-find-closest-person](https://github.com/Keerthi303/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3723-sum-of-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
