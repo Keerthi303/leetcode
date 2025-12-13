@@ -493,4 +493,8 @@
 | [0052-n-queens-ii](https://github.com/Keerthi303/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Keerthi303/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
