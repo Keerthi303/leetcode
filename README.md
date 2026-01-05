@@ -159,6 +159,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1470-shuffle-the-array](https://github.com/Keerthi303/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthi303/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
