@@ -499,6 +499,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Keerthi303/leetcode/tree/master/0184-department-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/Keerthi303/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Keerthi303/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
