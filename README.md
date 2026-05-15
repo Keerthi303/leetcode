@@ -138,6 +138,7 @@
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Keerthi303/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthi303/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
@@ -394,6 +395,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthi303/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthi303/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthi303/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
