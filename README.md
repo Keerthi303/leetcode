@@ -154,6 +154,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthi303/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Keerthi303/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthi303/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthi303/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Keerthi303/leetcode/tree/master/0932-monotonic-array) |
@@ -236,6 +237,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
