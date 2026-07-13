@@ -133,6 +133,7 @@
 | [0041-first-missing-positive](https://github.com/Keerthi303/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Keerthi303/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Keerthi303/leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Keerthi303/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Keerthi303/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Keerthi303/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Keerthi303/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Keerthi303/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Keerthi303/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
