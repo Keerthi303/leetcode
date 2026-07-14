@@ -180,6 +180,7 @@
 | [1651-shuffle-string](https://github.com/Keerthi303/leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -230,6 +231,7 @@
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
+| [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Keerthi303/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthi303/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -375,6 +377,7 @@
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Enumeration
 |  |
 | ------- |
