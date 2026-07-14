@@ -158,6 +158,7 @@
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthi303/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Keerthi303/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keerthi303/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -227,6 +228,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Keerthi303/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Keerthi303/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Keerthi303/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -334,6 +336,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthi303/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Keerthi303/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthi303/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthi303/leetcode/tree/master/2128-reverse-prefix-of-word) |
