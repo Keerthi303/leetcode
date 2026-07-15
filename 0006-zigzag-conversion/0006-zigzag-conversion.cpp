@@ -18,7 +18,7 @@ public:
             right +=2;
             flag = true;
             while(i < s.size()){
-                if(i < numRows && k != i) continue; 
+               // if(i < numRows && k != i) continue; 
            if(flag){
             ans += s[i];
              i= i+left;
