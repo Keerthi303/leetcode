@@ -71,6 +71,7 @@
 | [3817-maximum-containers-on-a-ship](https://github.com/Keerthi303/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Keerthi303/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## String
@@ -223,6 +224,7 @@
 | [3429-special-array-i](https://github.com/Keerthi303/leetcode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3723-sum-of-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
@@ -250,6 +252,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
@@ -335,6 +339,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Keerthi303/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthi303/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Keerthi303/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -371,6 +376,7 @@
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
