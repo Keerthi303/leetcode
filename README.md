@@ -206,6 +206,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Keerthi303/leetcode/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Keerthi303/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -244,6 +245,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthi303/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Keerthi303/leetcode/tree/master/2386-min-max-game) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Keerthi303/leetcode/tree/master/3336-water-bottles-ii) |
@@ -390,6 +392,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Enumeration
 |  |
 | ------- |
