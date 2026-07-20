@@ -173,6 +173,7 @@
 | [0941-sort-array-by-parity](https://github.com/Keerthi303/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthi303/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1260-shift-2d-grid](https://github.com/Keerthi303/leetcode/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1470-shuffle-the-array](https://github.com/Keerthi303/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -241,6 +242,7 @@
 | [0657-robot-return-to-origin](https://github.com/Keerthi303/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Keerthi303/leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Keerthi303/leetcode/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
@@ -395,6 +397,7 @@
 | [0498-diagonal-traverse](https://github.com/Keerthi303/leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Keerthi303/leetcode/tree/master/0867-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Keerthi303/leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1260-shift-2d-grid](https://github.com/Keerthi303/leetcode/tree/master/1260-shift-2d-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
