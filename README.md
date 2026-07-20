@@ -60,6 +60,7 @@
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Keerthi303/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3336-water-bottles-ii](https://github.com/Keerthi303/leetcode/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthi303/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/Keerthi303/leetcode/tree/master/3371-harshad-number) |
@@ -220,6 +221,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Keerthi303/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthi303/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthi303/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Keerthi303/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -379,6 +381,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
