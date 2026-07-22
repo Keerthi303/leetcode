@@ -155,6 +155,7 @@
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Keerthi303/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Keerthi303/leetcode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/Keerthi303/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Keerthi303/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthi303/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthi303/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -266,6 +267,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Keerthi303/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -555,4 +557,8 @@
 | [0184-department-highest-salary](https://github.com/Keerthi303/leetcode/tree/master/0184-department-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/Keerthi303/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Keerthi303/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Keerthi303/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
