@@ -70,6 +70,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Keerthi303/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Keerthi303/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Keerthi303/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Keerthi303/leetcode/tree/master/3830-find-closest-person) |
@@ -127,6 +128,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Keerthi303/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Keerthi303/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Keerthi303/leetcode/tree/master/3636-check-balanced-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Keerthi303/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -281,6 +283,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Keerthi303/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Keerthi303/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
