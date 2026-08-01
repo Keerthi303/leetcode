@@ -254,6 +254,7 @@
 | [0682-baseball-game](https://github.com/Keerthi303/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Keerthi303/leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Keerthi303/leetcode/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/Keerthi303/leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
@@ -322,6 +323,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/Keerthi303/leetcode/tree/master/1603-design-parking-system) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthi303/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -573,4 +575,5 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Keerthi303/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Keerthi303/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1603-design-parking-system](https://github.com/Keerthi303/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
