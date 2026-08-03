@@ -34,6 +34,7 @@
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -122,6 +123,7 @@
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthi303/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthi303/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Keerthi303/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -309,6 +311,7 @@
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthi303/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3226-minimum-number-game](https://github.com/Keerthi303/leetcode/tree/master/3226-minimum-number-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -331,12 +334,14 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Keerthi303/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Keerthi303/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
