@@ -226,6 +226,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Keerthi303/leetcode/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Keerthi303/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
@@ -291,6 +292,7 @@
 | [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Keerthi303/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -455,6 +457,7 @@
 | [0389-find-the-difference](https://github.com/Keerthi303/leetcode/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Tree
 |  |
