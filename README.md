@@ -215,6 +215,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Keerthi303/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthi303/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -302,6 +303,7 @@
 | [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Keerthi303/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -470,6 +472,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Keerthi303/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Keerthi303/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Keerthi303/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
