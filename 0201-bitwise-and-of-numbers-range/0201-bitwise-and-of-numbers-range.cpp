@@ -5,6 +5,7 @@ public:
        while(left<right)
        {
         right&=(right-1);
+        if(right == 0) return 0;
        }
         return right;
     }
