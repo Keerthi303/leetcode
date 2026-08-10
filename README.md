@@ -162,6 +162,7 @@
 | [0075-sort-colors](https://github.com/Keerthi303/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Keerthi303/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Keerthi303/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -463,6 +464,7 @@
 | [0029-divide-two-integers](https://github.com/Keerthi303/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Keerthi303/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthi303/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Keerthi303/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Keerthi303/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Keerthi303/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Keerthi303/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
