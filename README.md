@@ -493,6 +493,7 @@
 | [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Keerthi303/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Keerthi303/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2438-range-product-queries-of-powers](https://github.com/Keerthi303/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
