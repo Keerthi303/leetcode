@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/Keerthi303/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Keerthi303/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Keerthi303/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Keerthi303/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Keerthi303/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Keerthi303/leetcode/tree/master/0189-rotate-array) |
@@ -523,6 +524,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthi303/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Keerthi303/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthi303/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthi303/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Keerthi303/leetcode/tree/master/0268-missing-number) |
@@ -664,4 +666,8 @@
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Keerthi303/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
