@@ -25,6 +25,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Keerthi303/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthi303/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Keerthi303/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -64,6 +65,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Keerthi303/leetcode/tree/master/0640-solve-the-equation) |
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Keerthi303/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -210,6 +212,7 @@
 | [1260-shift-2d-grid](https://github.com/Keerthi303/leetcode/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Keerthi303/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Keerthi303/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1470-shuffle-the-array](https://github.com/Keerthi303/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthi303/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -313,6 +316,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Keerthi303/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Keerthi303/leetcode/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Keerthi303/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthi303/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -492,6 +496,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Keerthi303/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Keerthi303/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Keerthi303/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Keerthi303/leetcode/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Keerthi303/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
