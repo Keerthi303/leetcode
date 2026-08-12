@@ -227,6 +227,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1720-decode-xored-array](https://github.com/Keerthi303/leetcode/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/Keerthi303/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Keerthi303/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthi303/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -498,6 +499,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Keerthi303/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Keerthi303/leetcode/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/Keerthi303/leetcode/tree/master/1734-decode-xored-permutation) |
 | [1829-maximum-xor-for-each-query](https://github.com/Keerthi303/leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Keerthi303/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
