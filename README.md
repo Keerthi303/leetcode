@@ -71,6 +71,7 @@
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Keerthi303/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/1922-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Keerthi303/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
@@ -598,6 +599,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Keerthi303/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Keerthi303/leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/1922-count-good-numbers) |
 ## Brainteaser
 |  |
 | ------- |
