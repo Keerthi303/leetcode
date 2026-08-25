@@ -80,6 +80,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2614-prime-in-diagonal](https://github.com/Keerthi303/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Keerthi303/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -266,6 +267,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2614-prime-in-diagonal](https://github.com/Keerthi303/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Keerthi303/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthi303/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -458,6 +460,7 @@
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/Keerthi303/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -477,6 +480,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Keerthi303/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1706-where-will-the-ball-fall](https://github.com/Keerthi303/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2614-prime-in-diagonal](https://github.com/Keerthi303/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
