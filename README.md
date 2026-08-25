@@ -59,6 +59,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthi303/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Keerthi303/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Keerthi303/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keerthi303/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Keerthi303/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Keerthi303/leetcode/tree/master/0412-fizz-buzz) |
@@ -181,6 +182,7 @@
 | [0169-majority-element](https://github.com/Keerthi303/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthi303/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Keerthi303/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Keerthi303/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Keerthi303/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Keerthi303/leetcode/tree/master/0260-single-number-iii) |
@@ -449,6 +451,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -473,6 +476,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Keerthi303/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Keerthi303/leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/Keerthi303/leetcode/tree/master/1656-count-good-triplets) |
@@ -661,14 +665,17 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Newton's Method
 |  |
