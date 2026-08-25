@@ -40,6 +40,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthi303/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Keerthi303/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -76,6 +77,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthi303/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Keerthi303/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/Keerthi303/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/Keerthi303/leetcode/tree/master/2752-sum-multiples) |
@@ -261,6 +263,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Keerthi303/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2486-most-frequent-even-element](https://github.com/Keerthi303/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthi303/leetcode/tree/master/2502-sort-the-people) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthi303/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Keerthi303/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -453,6 +456,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/Keerthi303/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthi303/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -666,19 +670,34 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Keerthi303/leetcode/tree/master/0069-sqrtx) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
