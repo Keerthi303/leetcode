@@ -69,6 +69,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthi303/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/Keerthi303/leetcode/tree/master/0640-solve-the-equation) |
 | [0728-self-dividing-numbers](https://github.com/Keerthi303/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0866-prime-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0866-prime-palindrome) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Keerthi303/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1500-count-largest-group](https://github.com/Keerthi303/leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Keerthi303/leetcode/tree/master/1642-water-bottles) |
@@ -457,6 +458,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0866-prime-palindrome) |
 | [2507-number-of-common-factors](https://github.com/Keerthi303/leetcode/tree/master/2507-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -674,6 +676,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Keerthi303/leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0866-prime-palindrome) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Keerthi303/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
