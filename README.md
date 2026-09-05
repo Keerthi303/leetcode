@@ -101,6 +101,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/Keerthi303/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Keerthi303/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
@@ -288,6 +289,7 @@
 | [3723-sum-of-good-numbers](https://github.com/Keerthi303/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Keerthi303/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Keerthi303/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Keerthi303/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
