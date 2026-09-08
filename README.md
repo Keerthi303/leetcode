@@ -251,6 +251,7 @@
 | [1980-find-unique-binary-string](https://github.com/Keerthi303/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Keerthi303/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Keerthi303/leetcode/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Keerthi303/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthi303/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Keerthi303/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Keerthi303/leetcode/tree/master/2159-two-out-of-three) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Keerthi303/leetcode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Keerthi303/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Keerthi303/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthi303/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/Keerthi303/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/Keerthi303/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
