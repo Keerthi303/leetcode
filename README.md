@@ -722,4 +722,8 @@
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Keerthi303/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Keerthi303/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Keerthi303/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
